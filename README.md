@@ -9,4 +9,4 @@
 | GET          | /students       | Retrieve all students    |  |
 | DELETE     | /delete/{id}       | Delete student by id      | |
 | GET          | /students       | Retrieve all students    | |
-| POST     | /addstudent       | Add students. Re      | d|
+| POST     | /addstudent       | Add students. Re      | name, age, avg, usernumber|
