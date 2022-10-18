@@ -6,6 +6,10 @@ This github repository has a frontend and a backend.
 Backend is Java Spring boot application.
 It runs on localhost:8080/ by default.
 
+### How to run?
+There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `de.codecentric.springbootsample.Application` class from your IDE.
+
+
 ## Frontend
 Frontend is made with React.js, Bootstarp and TailwindCSS
 
