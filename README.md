@@ -9,6 +9,7 @@ It runs on localhost:8080/ by default.
 ## Frontend
 Frontend is made with React.js, Bootstarp and TailwindCSS
 
+### How to run?
 Cloning and Running the Application in local
 Clone the project into local
 
