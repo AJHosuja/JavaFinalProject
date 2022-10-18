@@ -4,7 +4,9 @@
 
 
 ### endpoints
-| Method | URL | Description |
+| Method | URL | Description | Request Body |
 | :---         |     :---:      |          ---: |
-| GET   | /students     | Retrieve all students    |
-| git diff     | git diff       | git diff      |
+| GET          | /students       | Retrieve all students    |
+| DELETE     | /delete/{id}       | Delete student by id      |
+| GET          | /students       | Retrieve all students    |
+| POST     | /addstudent       | Add students. Re      |
