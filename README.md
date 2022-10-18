@@ -55,6 +55,7 @@ List of all endpoints.
 ## Screenshots from frontend
 
 <p>1. On landing page you can students and remove students. Also navigate to courses page</p>
+
 ![image](https://user-images.githubusercontent.com/93617192/196432497-45b9d874-79ad-45bb-8d15-9982c933af31.png)
 
 
