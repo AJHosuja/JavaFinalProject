@@ -8,5 +8,8 @@
 | :---         |     :---:      |          ---: |   ---: |
 | GET          | /students       | Retrieve all students    |  |
 | DELETE     | /delete/{id}       | Delete student by id      | |
-| GET          | /students       | Retrieve all students    | |
-| POST     | /addstudent       | Add students. Re      | name, age, avg, usernumber|
+| POST     | /addstudent       | Add student      | name, age, avg, usernumber|
+| :---         |     :---:      |          ---: |   ---: |
+| GET          | /students       | Retrieve all students    |  |
+| DELETE     | /delete/{id}       | Delete student by id      | |
+| POST     | /addstudent       | Add student      | name, age, avg, usernumber|
