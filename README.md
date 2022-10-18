@@ -1,5 +1,5 @@
 # Final project for Java course
-This github repository was made for the last project of the java course
+This github repository was made for the last project of the java course.
 This github repository has a frontend and a backend.
 
 ## Backend
@@ -47,3 +47,6 @@ List of all endpoints.
 | GET     | /coursesandstudents/course/{id}       | Gets all students in {id} course   ||
 | GET     | /coursesandstudents/course/getstudentsnotincourse/{id}       | Gets all students that is <Strong>not</Strong> in {id} course   ||
 | DELETE  | /coursesandstudents/course/{studentnumber}/{courseId}        | Delete student {studentnumber} from course {courseID}  ||
+
+
+
