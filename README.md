@@ -28,7 +28,7 @@ npm start
 The Application Runs on localhost:3000
 
 
-### Endpoints
+## Endpoints
 List of all endpoints.
 
 | Method | URL | Description | Request Body |
