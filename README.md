@@ -3,7 +3,9 @@
 <br/>
 
 
-### endpoints
+### Endpoints
+List of all endpoints.
+
 | Method | URL | Description | Request Body |
 | :---         |     :---:      |          ---: |   ---: |
 | GET          | /students       | Retrieve all students    |  |
