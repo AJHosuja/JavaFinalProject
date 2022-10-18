@@ -58,5 +58,10 @@ List of all endpoints.
 
 ![image](https://user-images.githubusercontent.com/93617192/196432497-45b9d874-79ad-45bb-8d15-9982c933af31.png)
 
+<p>2. On courses page you can create courses and remove courses. When you click course name you will be redirected to page which shows all students on course</p>
 
+![image](https://user-images.githubusercontent.com/93617192/196433288-d4fb0810-37fd-482a-9a14-a6b3ff45ace3.png)
 
+<p>3. On this page you can add students to this course or remove those. It also automaticly shows all students that is not in this course. </p>
+
+![image](https://user-images.githubusercontent.com/93617192/196434101-16de6223-4214-4dac-b56c-c7d0971e2b3c.png)
