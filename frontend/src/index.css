@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none; /* Safari */
+    -ms-appearance: none; /* IE 10 and IE 11 */
+    -moz-appearance: none; 
+    appearance: none; /* Standard syntax */
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

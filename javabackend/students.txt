@@ -1,0 +1,7 @@
+pekka<33<4.5<23
+jaakko<42<3.2<17
+einari<22<3.2<16
+Jaako<12<3.2<12
+teemu<28<2.0<203
+jaakko<32<5.0<233
+Petteri Mikkola<22<3.4<23342
