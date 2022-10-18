@@ -6,5 +6,5 @@
 ### endpoints
 | Method | URL | Description |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| GET   | /students     | Retrieve all students    |
 | git diff     | git diff       | git diff      |
