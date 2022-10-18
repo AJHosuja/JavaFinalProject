@@ -4,7 +4,7 @@
 
 
 ### endpoints
-| Left-aligned | Center-aligned | Right-aligned |
+| Method | URL | Description |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
