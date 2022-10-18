@@ -16,6 +16,6 @@
 | ---         |     ---     |          --- |    |
 | GET          | /coursesandstudents       | Retrieve all courses and students    |  |
 | POST     | /coursesandstudents/course/addstudent       | Add student to course      | studentID, courseID |
-| GET     | /coursesandstudents/student/{id}       | Gets all courses where student(id param) is enrolled in   ||
+| GET     | /coursesandstudents/student/{id}       | Gets all courses where student {id} is enrolled in   ||
 | GET     | /coursesandstudents/course/{id}       | Gets all students in {id} course   ||
 | GET     | /coursesandstudents/course/getstudentsnotincourse/{id}       | Gets all students that is <Strong>not</Strong> in {id} course   ||
