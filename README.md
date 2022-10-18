@@ -51,3 +51,7 @@ List of all endpoints.
 
 ## Simple UML Chart
 ![Other](https://user-images.githubusercontent.com/93617192/196431561-04ae1dee-f8d8-4297-8e28-ed9541310195.png)
+
+## Screenshots from frontend
+
+
