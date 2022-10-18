@@ -13,3 +13,4 @@
 | GET          | /courses       | Retrieve all courses    |  |
 | DELETE     | /deletecourse/{id}       | Delete course by id      | |
 | POST     | /createcourse       | Create a new course      | name, teacher, classRoom, courseID|
+| ---         |     ---     |          --- |    |
