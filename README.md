@@ -11,7 +11,7 @@ There are several ways to run a Spring Boot application on your local machine. O
 
 
 ## Frontend
-Frontend is made with React.js, Bootstarp and TailwindCSS
+Frontend is made with React.js, Bootstrap and TailwindCSS
 
 ### How to run?
 Cloning and Running the Application in local
