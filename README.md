@@ -2,6 +2,7 @@
 This github repository was made for the last project of the java course.
 This github repository has a frontend and a backend.
 
+
 ## Backend
 Backend is Java Spring boot application.
 It runs on localhost:8080/ by default.
